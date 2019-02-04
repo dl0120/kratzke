@@ -1,0 +1,836 @@
+* TOC
+- Chapter 1: The Government Raises Money: Introduction to Some Basic Concepts of Taxes and Taxing Income
+				- I. Introduction to Some Basic Concepts
+				- II. Taxing Income
+				- III. Some Definitions
+				- IV. Layout of the Code
+				- V. Not All Income Is Taxed Alike
+				- VI. Illustration of the Tax Formula:
+				- VII. Sources of Tax Law and the Role of Courts
+				- VIII. Some Income Tax Policy and Some Income Tax Principles
+				- IX. What We Tax: What Is Income?
+				- Wrap-up Questions for Chapter 1
+				- What have you learned?
+- Chapter 2: What Is Gross Income: Section 61 and the Sixteenth Amendment
+				- I. The Constitutional and Statutory Definitions of “Gross Income”
+				- II. The Constitutional and Statutory Definitions of “Gross Income:” Accessions to Wealth
+				- III. The Constitutional and Statutory Definitions of “Gross Income:” Realization
+				- IV. The Constitutional and Statutory Definitions of “Gross Income:” Dominion and Control
+				- Wrap-up Questions for Chapter 2:
+				- What have you learned?
+- Chapter 3: Exclusions from Gross Income
+				- I. The Society and Government that We Want
+				- II. Social Benefits
+				- III. Employment-Based Exclusions from Gross Income
+				- Wrap-up Questions for Chapter 3:
+				- What have you learned?
+- Chapter 4: Loans and Cancellation of Indebtedness
+				- I. Tax Consequences of Borrowing Money
+				- II. Cancellation of Indebtedness
+				- III. Is It a Loan? Is There an Accession to Wealth?
+				- IV. Section 108(a)'s Other Provisions
+				- V. Transactions Involving Property Subject to a Loan
+				- VI. Transactions Treated as Loans
+				- Wrap-up Questions for Chapter 4
+				- What have you learned?
+- Chapter 5: Progressivity and Assignment of Income
+				- I. Compensation for Services
+				- II. Income Splitting and the Joint Return
+				- III. Income Derived from Property
+				- IV. Interest Free Loans and Unstated Interest
+				- Wrap-Up Questions for Chapter 5
+				- What have you learned?
+- Chapter 6: Deductions: Business Expenses
+				- I. Expense or Capital
+				- II. Deductibility Under §§ 162 or 212
+				- III. Depreciation, Amortization, and Cost Recovery
+				- Wrap-Up Questions for Chapter 6
+				- What have you learned?
+- Chapter 7: Personal Deductions and the Standard Deduction
+				- I. “Tax Expenditures”
+				- II. Denial of Discretion in Choosing How or What to Consume
+				- III. Creating a More Efficient and Productive Economy
+				- IV. Deferral Until Consumption
+				- Wrap-Up Questions for Chapter 7
+				- What have you learned?
+- Chapter 8: Tax Consequences of Divorce and Intra-Family Transactions
+				- I. Introduction
+				- II. Before Marriage
+				- III. During Marriage
+				- IV. After Marriage: Tax Consequences of Divorce
+				- Wrap-Up Questions for Chapter 8
+				- What have you learned?
+- Chapter 9: Timing of Income and Deductions: Annual Accounting and Accounting Principles
+				- I. Annual Accounting
+				- II. Deferral Mechanisms
+				- III. Basic Accounting Rules
+				- Wrap-Up Questions for Chapter 9:
+				- What have you learned?
+- Chapter 10: Character of Income and Computation of Tax
+				- I. Capital Gain
+				- II. Sections 1245 and 1250: Depreciation Recapture
+				- III. Section 1231: Some Limited Mismatching
+				- IV. More Matching
+				- Wrap-Up Questions for Chapter 10
+				- What have you learned?
+* 1
+** I. basic concepts
+- tax as "source of revenue" for government
+- tariffs
+- import tariffs
+- export tariffs
+- consumers v. producers
+- domestic v. foreign
+- Article 1, § 9, cl. 5
+		- no inter-state tariffs
+- 
+- government monopoly
+- government enters an industry, then outlaws competition in that industry
+- lotteries, park access, liquor stores
+- 
+- tax citizens
+- citizens v. consumers
+- noncitizens, nonresidents
+- "tax base"
+		- what it is the government should tax
+- "head tax"
+		- tax on a specific group - citizen, resident, voter, etc.
+		- objectively equal ($1000 all citizens), but subjectively unequal ($1000 is nothing to some citizens, is a LOT to other citizens)
+		- poll tax, 24th Amendment
+- consumption tax
+		- tax "consumption"
+		- sales tax
+		- excise tax
+		- value added tax (VAT)
+		- sales tax
+				- tax on sale
+				- usually a flat %
+				- NOT on "what people "SAVE""
+				- more burdensome to those who spend more on [items subject to a sales tax]
+				- objectively equal (same % for everyone)
+				- "regressive effect": 2 people; one richer; spend same objective amount; the poorer is taxed on more % of his income; the richer is taxed on less % of his income
+				- Ramsey principle
+						- taxes on items whose demand is "inelastic" raises the most revenue
+						- "inelastic demand": amount of tax does NOT change the demand
+						- lifesaving drug - doesn't matter how expensive; people MUST buy
+						- "distort": the mere [presence of tax] changes people's spending behavior
+						- taxes on inelastic goods distorts LITTLE
+  - excise tax
+				- sales tax only on certain class of goods
+				- basically, head tax but based on [identity/grouping of the item bought] (not based on [identity/grouping of the purchaser])
+				- tax on luxury items
+				- luxury goods have highly elastic demand
+				- excise tax on "sin" purchases like cigarettes and alcohol
+		- value added tax
+				- tax on all stages of a sale
+				- not just on consumer, but every stage of production
+- 
+- progressive consumption tax
+- Schanz-Haig-Simons concept of income
+- "wealth"
+- "consumption"
+- "saving"
+- "progressive": more consumption -> more tax
+- 
+- wealth tax
+- estate tax
+		- tax on estates of decedents
+- property tax
+		- tax on people who HOLD property
+- 
+- wage tax
+- "payroll tax"
+		- flat % tax on all wages, no matter the actual amount
+- 
+		- social security tax, medicare tax
+- regressive effect
+		- income above "ceiling", effective rate, lower than effective rate of income below ceiling
+- 
+- Income tax
+- "income" as "tax base"
+- "deductions"
+		- adjustments, reductions
+- hard to avoid: have to NOT make money
+** II. taxing income
+- "personal income tax"
+- "corporate income tax", "estate tax", "gift tax"
+- title 26 of USC is the IRC
+		-
+** III. Some definitions
+- "tax base"
+		- the thing that the government is taxing
+- "all income"
+- "taxable income"
+		- "gross income" minus [§62 deductions], minus (either "standard deduction" or "itemized deductions")
+- "tax formula"
+		- [[file:tax formula.png]]
+		- line in the tax formula: "the line"
+				- "above the line", "below the line"
+				- gross income to adjusted gross income
+		- "below the line"
+				- for you to deduct a "medical expense", you must've spent at least 10% of your AGI (below the line)
+		- "credit"
+		- non-refundable credits
+				- cannot reduce tax liability below 0
+		- refundable credits
+				- CAN reduce tax liability below 0 -> govt pays you! lol
+- 
+- "progressive"
+- "declining marginal utility of money"
+- $1 is nothing to millionaire, a lot to a poor person
+- "equal sacrifice"
+- "redistribute income"
+- tax brackets
+- married, joint
+		- [[file:married, joint old.png]]
+		- [[file:married, join new.png]]
+- unmarried
+		- [[file:unmarried old.png]]
+		- [[file:unmarried new.png]]
+- "progressive tax brackets"
+		- higher taxable income, higher tax rates
+- "regressive tax"
+		- higher taxable income, less tax rate
+- "flat tax"
+		- one same tax rate, ALL income levels
+- "effective tax rate"
+		- [amount ultimately paid as tax]/[total income]
+		- "net capital gain" v. "ordinary income"
+- "marginal tax rate"
+		- the rate at which the next/last dollar is taxed
+		- determines cost/value of working more, get benefit rather than salary, etc.
+- "tax incidence"
+		- who ACTUALLY bears the burden of a tax?
+		- "direct tax": burden CAN'T be transferred - head tax
+		- "indirect tax": burden CAN be transferred - excise tax
+				- landowner charges rent 1. govt imposes real property tax. landowner charges higher rent 2. Ultimately, tenants are paying the real propert ytax
+- "upside down nature of deductions and exclusions"
+		- the value of another dollar earned: $1 - $1*(marginal tax rate)
+		- the value of next dollar deducted: $1 is received by charity, donor only gives up $1 - $1*(marginal tax rate)
+		- 1% marginal tax rate: donor gives up 99 cents to give $1 value to charity
+		- 99% marginal tax rate: donor gives up 1 cent to give $1 value to charity
+		- "upside-downness" of incentives
+		- I THINK it just means:
+		- tax-writers intended "the more you earn, the more you pay"
+		- but, another way to look at it is:
+		- "the more you earn, [the more you deduct, the more you benefit]"
+		- so, richer people go apeshit for deductions
+		- ultimately, people "earn less", meaning tax revenue is lower
+		- kind of perverse ...?
+		- fuck taxers
+- 
+- exclusions from gross income
+- "gross income"
+- "accessions to wealth"
+- things that are "accessions to wealth" but NOT "gross income"
+		- employer-provided health insurance §106
+		- life insurance proceeds §101
+		- interest from state or local bonds §103
+		- various employee fringe benefits §§132, 129, 119
+- encourages people to take these things, since these are not taxed
+- 
+- "deductions" from "taxable income"
+- "deduction"
+		- if you do X with your money,
+		- we'll let you pay less taxes by "lowering" your taxable income
+		- reduces income that's otherwise subject to income tax
+- "exclusion from gross income" v. "deduction from taxable income/adjusted gross income"
+- 
+- Alternative minimum tax
+- "AMT"
+- you must pay the higher of (1) regular tax and (2) AMT
+- you have to pay AT LEAST this amount!
+- 
+- credits against tax liability
+- "credit"
+- credits are for things like:
+		- certain group of people (low income)
+		- behavior: spend money on childcare
+		- both
+- 
+- "right side up" nature of tax credits
+- something about: using credits (rather than deductions), benefit poor people more than rich people
+- 
+- Income phaseouts and deduction caps
+- goal: tax poor people less, without taxing rich people less
+- "phaseout"
+- "cap"
+- deduction for interest paid on qualified education loans §219
+		- cap: $2500
+		- phaseout:
+				- you make less than 20k -> can deduct full 2500
+				- you make 20k-40k -> can deduct 2000
+				- you make 40k-60k -> can deduct 1500
+				- you make 60k-80k -> can deduct 1000
+				- you make 80k-120k -> can deduct 500
+				- you make 120k+ -> can deduct 0 (can't deduct at all)
+- what kind of taxpayer would benefit most from §219? what kind of taxpayer would benefit the least?
+- phaseouts and caps exist for both credits and deductions
+- 
+- A word about "employment taxes"
+- "employment taxes"
+		- tax that everyone pays on wages they get from employers
+		- social security tax, medicare tax
+- self employed, "self-employment taxes"
+- eligibility is NOT based on wealth or need
+- EVERYONE is to benefit from these programs
+** IV. Layout of the code
+- Internal Revenue Code
+- title 26 of USC
+- (1) statutes
+- (2) regulations by Department of the Treasury
+- "§61" really means "26 USC §61"
+- regulation shorthand
+		- "1"
+		- related code section
+- Reg. § 61-8
+		- a regulation
+		- related to §61
+		- the one was that declared 8th
+		- rephrase: the 8th regulation on §61
+*** structure
+:NOTES:
+§§ 1 and 11 establish rates;
+§§ 21-54AA provide credits against tax liability;
+§§ 55-59 establish the alternative minimum tax;
+§§ 61-65 provide some key definitions concerning “gross income,” “adjusted gross income,” and “taxable income;”
+§§ 67-68 provide rules limiting deductions;
+§§ 72-91 require inclusion of specific items (or portions of them) in gross income;
+§§ 101-139G state rules concerning exclusions from gross income;
+§§ 141-149 establish rules governing state and local bonds whose interest is exempt from gross income;
+§ 152 establishes entitlement to a credit for dependents;
+§§ 161-199A establish rules governing deductions available both to individuals and corporations;
+§§ 211-223 establish rules governing deductions available only to individuals;
+§§ 241-250 establish rules governing deductions available only to corporations;
+§§ 261-280H deny or limit deductions that might otherwise be available;
+§§ 441-483 provide various rules of accounting, including timing of recognition of income and deductions;
+§§ 1001-1021 provide rules governing the recognition of gain or loss on the disposition of property;
+§§ 1031-1045 provide rules governing non-recognition of gain or loss upon the disposition of property, accompanied by a transfer and adjustment to basis;
+§§ 1201-1260 provide rules for defining and calculating capital gains/losses;
+§§ 1271-1288 provide rules for original issue discount.
+:END:
+#+BEGIN_SRC plantuml :file structure.png
+  @startuml
+
+  (*) --> "Initialization"
+
+
+
+  if "topic" then
+    --> "rates"
+  else
+    --> "credits"
+  else
+    --> "AMT"
+  else
+    --> GI
+    if "" then
+      --> "GI, AGI, TI"
+    else
+      --> "GI inclusions"
+    else
+      --> "GI exclusions"
+    else
+      --> "GI, state and local bonds"
+    else
+      --> "credit for dependents"
+    endif
+  else
+    --> "deductions"
+    if "" then
+    --> "limits on deductions"
+    else
+    --> "deductions for individuals AND corporations"
+    else
+    --> "deductions for individuals"
+    else
+    --> "deductions for corporations"
+    else
+    --> "deductions limitations"
+    endif
+  else
+  --> "accounting"
+  else
+  --> "recognition"
+  else
+  --> "nonrecognition"
+  else
+  --> "capital gains/loss"
+  else
+  --> "original issue discount"
+  endif
+
+
+  @enduml
+#+END_SRC
+
+#+RESULTS:
+[[file:structure.png]]
+
+** V. Not all income is taxed alike
+- "accession to wealth"
+- "gross income"
+- different types of "accession to wealth" are taxed differently
+		- "long term capital gains"
+				- gain on sale of property that a taxpayer owned for more than 1 year
+		- dividend income
+		- wage/salary income
+		- interest income from state/local bonds
+		- ordinary income
+- "character" of income
+		- ordinary income v. long-term capital gain income
+- 
+- 3 levels of tax law (analysis)
+		- (1) statute and regulations
+		- (2) policies of IRC
+		- (3) income tax in one specific society (US, GB, Sweden, etc.)
+
+** VI. Illustration of the tax formula
+*** scenario
+- Bill and Mary are husband and wife.
+- They have two children, Thomas who is 14 and Stephen who is 10.
+- Bill works as a manager for a large retailer.
+- Last year, he earned a salary of $80,000.
+- His employer provided the family with health insurance that cost $14,000.
+- Mary is a school administrator who earned a salary of $75,000.
+- Her employer provided her a group term life insurance policy with a death benefit of $50,000; her employer paid $250 to provide her this benefit.
+- Their respective employers deducted employment taxes from every paycheck and paid each of them the balance.
+- In addition to the above items, Bill and Mary own stock in a large American corporation, and that corporation paid them a dividend of $500.
+- Bill and Mary later sold that stock for $10,000; they had paid $8000 for it several years ago.
+- Bill and Mary have a joint bank account that paid interest of $400.
+- Bill and Mary paid $4300 for daycare for Stephen.
+- They also paid $3000 of interest on a student loan that Bill took out when he was in college.
+- What is Bill and Mary’s tax liability? Assume that they will file as married filing jointly.
+*** analysis
+#+BEGIN_SRC plantuml :file tax_analysis_steps.png
+  @startuml
+
+
+
+  (*) --> "(1) employment taxes" as n1
+  --> "(2) gross income" as n2
+  --> "(3) adjusted gross income" as n3
+  --> "(4) taxable income" as n4
+  --> "(5) income tax liability" as n5
+  --> "(6) credits" as n6
+  --> "(7) effective tax rate" as n7
+  --> "(8) marginal tax bracket" as n8
+
+  n1 -right-> "
+  social security
+  medicare
+  tax base
+  "
+
+  n2 -right-> "
+  Gross income
+  accessions to wealth
+  gross income § 61
+  exclusions (AtW but not GI) §§ 101-139G
+  scope of some inclusions (normally GI but!) §§ 72-91
+  §§ 61, 79, 106
+  GI: salary, dividend, capital gain, interest income
+  not GI: employer paid for insurance §§ 106, 79
+  filing jointly
+  employment taxes, double count
+  "
+
+  n3 -right-> "
+  adjusted gross income §§ 221, 62(a)(17)
+  § 221, student loan interest deduction, phasedown, reduction, ratio, joint return, inflation, numerator, denominator
+  § 62, not included in AGI
+  "
+
+  n4 -right-> "
+  taxable income
+  § 63
+  2 definitions
+  GI - deduction
+  AGI - standard deduction
+  itemized deduction
+  § 63(b), personal exemptions, § 199A deduction for pass through entities
+  "
+
+  n5 -right-> "
+  income tax liability
+  §§ 1, 1222
+  long term capital gain
+  dividend
+  "
+
+  n6 -right-> "
+  credits
+  §§ 21, 24
+  § 21, dependent care expenses, qualifying individual, cap, phasedown, minimum
+  § 24, child care tax credit, qualifying, cap, phasedown, other dependents
+  credit, tax liability, not AGI or TI
+  "
+
+  n7 -right-> "
+  effective income tax rate
+  federal income tax liability
+  AGI
+  "
+
+  n8 -right-> "
+  marginal tax bracket
+  deduction, save
+  1 more dollar income, tax
+  "
+
+  @enduml
+#+END_SRC
+
+#+RESULTS:
+[[file:tax_analysis_steps.png]]
+
+1) "employment taxes"
+2) "gross income"
+3) "adjusted gross income"
+4) "taxable income"
+5) "income tax liability"
+6) "credits"
+7) "effective tax rate"
+8) "marginal tax bracket"
+** VII. Sources of tax law and role of courts
+- sources, in order of hierarchy:
+		- (1) Constitution
+		- (2) IRC (statutes), courts, IRC can disagree with non-SCOTUS
+		- (3) regulations of Secretary of Treasur
+		- (4) revenue ruling by IRS
+				- "revenue rulings"
+				- "revenue procedure"
+				- "private letter ruling"
+		- (5) IRS's other statements
+				- "technical advice memoranda"
+				- "notices"
+- binding or not?
+- binding on all? or binding on only that one party discussed?
+** VIII. Some income tax policy and some income tax principles
+- fairness and equity
+		- "horizontal equity"
+				- equal accessions to wealth, same income tax
+		- "vertical equity"
+				- different accessions to wealth, different income tax
+		- "administrative feasibility"
+- enforcement of the tax laws and court review
+		- IRS is part of Department of the Treasury
+		- IRS enforces federal tax code
+		- IRS has its own pprocess
+		- but when it's time to take things out of IRS and to a court, 3 options:
+		- (1) tax court
+		- (2) court of claims (claims against US)
+		- (3) Federal district court
+- "tax expenditures"
+		- if you're doing something we like, you don't have to pay tax on related income or spending
+		- fex: qualified adoption expenses income § 137; qualified adoption spending § 36C
+
+** IX. What we tax: what is income?
+- "income": money I get (work at a job, invest money)?
+- what about lottery income?
+- A and B have same wage. B wins $1m in a lottery
+- should they have the "same income"?
+- point of defining "income": treat like taxpayers alike
+- are A and B alike?
+- No
+		- B has much greater "capacity to consume or save"
+- so, we want to treat A and B differently
+- so, "income" can NOT just involve (1) fruits of labor and (2) investment
+- "income" should relate to: (1) spending and (2) saving
+- "personal income"
+		- (1) actual "consumption" (how much spent)
+		- (2) addition to "store of property rights" (how much saved)
+		- this is the Schanz-Haig-Simons formula
+- Income = Consumption + addition to the store of property rights
+- consumption = Income - addition to the store of property rights
+- employer gives W-2 (fruits of labor)
+- bank gives 1099-INT (interest income (one form of investment))
+- mp: "income", "consumption", and "addition to property rights" are RELATIVE TERMS
+- 
+*** Some obvious or not-so-obvious implications of the SHS definition of "income"
+- "fruits of labor FOR THIS YEAR" and "ADDITION to property rights THIS YEAR"
+- taxed in INCREMENT, not CUMULATION/NET WORTH/AGGREGATE
+- "basis"
+		- purpose: make sure that "increment to wealth" is taxed, NOT "accumulated wealth"
+- 
+**** taxing income is taxing consumption plus increments to the POWER to consume
+- "wealth": unexercised power to consume
+- "putting more money in bank account": consuming in the future rather than now
+- inflation -> $1, consuming power today > consuming power in future -> people don't save
+**** income, consumption, and value
+- "value": buyer and seller agree on a pricen
+- voluntary exchange
+- "creation of value", "loss of value", court judgment, § 104(a)
+- how much a buyer values an item
+- "buyer surplus"
+- how much seller values an item
+- "seller surplus"
+- "cooperative surplus"
+- 
+- taxing a buyer
+- "personal consumption"
+- deductibility
+- things that a person MUST purchase
+- 
+- taxing a seller
+- what kind of goods/services should sellers sell?
+- whatever maximizes their "seller surplus"
+- suppose tax on good A is higher than tax on good B
+- this might distort what seller chooses to sell
+- we don't want this
+- SO!
+- tax sellers only on "net income", not "gross proceeds"
+- § 162: deduction for "ordinary and necessary trade or business expenses"
+- cost of "productive inputs" should not be taxed
+- "productive inputs" over a long period of time, depreciation, spread costs over the long period of "consumption" of the "productive input", §§ 167, 168
+- 
+- activities that "create value" v. activities that are "zero-sum game"
+- gambling
+- should not have "negative tax" (get money from govt)
+- 
+- aside: 3 principles of tax
+		- (1) one income is taxed once and only once
+		- (2) some exceptions exist, explicitly said in the code
+		- (3) "basis", adjustment, treating "untaxed income" as if it had been taxed
+- 
+- "after-tax value"
+- "neutral" tax code, "tax neutrality"
+- "tax policy"
+		- don't tax all "income" equally
+		- encourage "earning money in a certain way" or "spending money in a certain way"
+- letting A pay less means: govt gives up money or B pays more to make up for the subsidy
+- 
+- aside: tax cuts and jobs act
+- got rid of some deductions (alimony paid)
+- suspended some deductions (moving expenses)
+- doubled standard deduction
+- mp: more people (slightly less poorer people now)  will do "standard deduction" rather than "itemize"
+- standard deductors: don't care about getting deductions through "items"
+- so, they don't care about charity, etc.
+- itemized deductors: enough money that they prefer to do itemized rather than standard
+- 
+- deviation from neutrality
+- increasing "nation's wealth"
+- "capture" of "cooperative surplus"
+- suppose an employer-employee relationship
+- an employer might get more/most of the "tax savings"
+**** basis, or keeping score with the government
+- aside: the essence of basis
+- "adjusted basis"
+		- I already paid tax on this, I don't have to pay tax on it again
+- "taxpayer's basis"
+- 
+- § 61(a)(3), "gross income" includes "gains derived" from "dealings in property"
+- "gains derived from dealings in property"
+		- [price sold] - [price bought]
+- why do we care about subtracting [price bought]?
+- "adjusted basis"
+- is this thing I bought "consumption" or just a different form of "holding wealth"?
+- "income", "additional increment to wealth", "consumption", "wealth held"
+- § 1001(a), "measure of gains derived from dealing in property"
+		- "amount realized"
+		- "adjusted basis"
+- § 1012(a) "basis"
+		- "basis in something"
+		- what that something cost
+- § 1011(a), "adjusted basis"
+		- "store of property rights"
+- "basis": how much of the dollar value of something has been taxed already
+- 
+- aside: investment, basis, depreciation, and adjustments to basis
+- changei n form of holding "after tax wealth"
+- "taxable event"
+- assigning basis to an asset
+- "income-producing consumption"
+- "de-investment"
+- "income-producing consumption" is deductible, § 162
+- "depreciation", "amortization", "cost recovery"
+- "de-investment", reduction in adjusted basis of income-producing asset
+**** SHS accounting for spending savings
+- suppose I take $10 from my savings, and buy a hamburger and eat it
+- did I have "income" to be "income tax'ed"?
+- 
+- aside: the relationship between [basis] and [deductions from taxable income]
+- "adjusted basis"
+		- income that's already been taxed
+- "deduction"
+		- reduction in "taxable income" because the way I spent money pleased Congress
+- deductions are only allowed if taxpayer has a "tax basis"
+- money spent to get myself to a soup kitchen to volunteer: deductible
+- my services that the soup kitchen didn't pay for: NOT deductible
+**** borrowing money
+- loan:
+		- $100
+		- obligation to repay $100
+- these 2 are offset
+- so, no impact on GI
+- 
+- I get a loan of $100
+- I buy a house for $100
+- I get a basis of $100 in the house
+- is this "free basis"?
+- no
+- I actually end up paying $100
+- over time, from "future income"
+- this "future income" WILL be taxed
+- I get the basis up front, pay for it over time
+- repayment of "loan principal" is never deductible
+- sometimes, [cost of borrowing] (interest) is deductible
+- 
+- aside: building a stronger economy
+- people invest more -> economy grows
+- cost of borrowing goes down -> more people borrow
+- rephrase: price of money goes down -> more people buy money
+- "not taxing loan proceeds"
+- "permitting a taxpayer to use loan proceeds to acquire basis"
+- reduces the cost of borrowing
+- so, economy grows
+** Wrap up questions
+** what have you learned?
+- tax base, deductions, exclusions, income phaseouts
+		- "tax base"
+				- total amount of assets or income that can be taxed by the government
+		- "deductions from taxable income"
+				- ?? deductions v. exemptions
+						- exclusion: lower your GI
+						- deduction: lower your TI (or AGI)
+		- "exclusions from gross income"
+				- "accessions to wealth" that are NOT used for GI
+		- "income phaseouts"
+				- suppose a tax credit
+				- higher your income -> less you get of this tax credit
+- tax formula, credit against tax
+		- "tax formula"
+				- GI - deductions = AGI
+				- AGI - deductions = TI
+				- [TI & rates] - credits = TL
+		- "credits against tax"
+				- lower "tax liability"
+- progressive tax rates
+		- the more you make, the more taxes you pay
+- marginal tax rates
+		- the tax rate of the next/last dollar
+- upside-down nature of deductions and exclusion
+		- marginal tax bracket
+		- principle: higher your marginal tax bracket, the less you get from your next dollar
+		- this principle & deductions
+		- principle: higher your marginal tax bracket, the more you get from deducting a dollar
+		- one way to see it:
+		- the higher your marginal tax bracket, the more benefit you get by getting employment benefits excluded from gross income
+		- "upside-down": results are the opposite of what policy-makers desire
+- right-side up nature of tax credits
+		- tax credit of 20% of what you spent on child care
+		- deduction of what you spent on child care, and your marginal tax bracket is 20%
+		- Congress: I want to encourage people to buy childcare. I care about poor people buying childcare. I don't care about rich people buying childcare.
+		- suppose marginal tax bracket 1: 10%; marginal tax bracket 2: 20%
+		- [credit, 15%, on child care] v. [deduction]
+		- $100 on child care
+		- deduction:
+				- marginal 1: $10. saved $10.
+				- marginal 2: $20. saved $20.
+		- credit, 15%
+				- $15. saved $15.
+		- poor person saved more than he would have with a straight deduction
+		- rich person saved less than he would have with a straight deduction
+		- "right side up": the effect is what was intended
+- employment taxes
+		- a bunch of taxes that ALL employer and employees pay
+		- social security; medicare; additional medicare; federal unemployment; worker's compensation
+- the Tax Code, regulations, revenue rulings, revenue procedures, private letter rulings
+		- "tax code" aka "Internal Revenue Code"
+				- statutes that Congress enacted
+				- enforced by IRS
+		- "regulations"
+				- Secretary of the Treasury's interpretation of the law
+				- but, is actually law
+		- "revenue ruling"
+				- IRS's interpretation of law
+		- "revenue procedures"
+				- IRS: "hey, we're gonna do this if this issue comes up"
+		- "private letter ruling"
+				- legal advice that IRS gives to a private citizen
+				- these are binding for IRS and the private citizen
+- tax disputes and the Tax Court, the Court of Claims, and the Federal District Court
+		- "tax disputes"
+		- Tax Court
+				- kind of like a district court, but for [topic of tax] rather than [specific geographic region]
+				- can go here before paying
+		- court of claims
+				- claims against US
+		- federal district court
+				- jury
+- tax norms of horizontal equity, vertical equity, and administrative feasibility
+		- "horizontal equity"
+				- taxpayers with equal "accessions to wealth" should pay the same amount of income tax
+				- like taxpayers should be taxed alike
+		- "vertical equity"
+				- taxpayers with different "accessions to wealth" should NOT pay the same amount of income tax
+				- unlike taxpayers should NOT be taxed alike
+				- those with more accessions to wealth should pay more in (1) dollar amount AND (2) % of their income
+		- "administrative feasibility"
+				- rules should be easy to understand and to apply, for both taxpayer and IRS
+- Schanz-Haig-Simons definition of income and its elements
+		- SHS's "income"
+				- sum of
+				- (1) market value of rights exercised in consumption
+				- (2) [change in value of "store of property rights"] between the [beginning and end of the period in question]
+		- elements
+				- (1) Income
+				- (2) Consumption
+				- (3) additions to the "store of property rights"
+- three guiding principles of the income tax
+		- (1) we tax income of a taxpayer once, and only once
+		- (2) exceptions (income that's taxed 0 or more than once) are explicitly defined
+		- (3) suppose some income is NOT taxed:
+				- we don't see it as: "not income"
+				- we see it as: "income to be taxed, it's just that "adjustment to basis" cancels it out"
+- tax expenditures
+		- "tax expenditure"
+				- govt: hey taxpayer, I'll let you not pay tax on this because I like that you did it
+				- this can be seen as "govt didn't tax at all"
+				- can also be seen as "govt SPENT the money it WOULD have received"
+				- "expenditure", "spending"
+- income tax treatment of personal expenditures
+		- § 267(a): no deduction for "personal consumption"
+		- "personal consumption": fex: expenditures for basic living expenses
+		- "personal": implies NOT deductible; a LEGAL conclusion
+		- ?? purchasing choices, income that was already taxed, denying deductions for personal consumption, choices being unfettered, purchases that a taxpayer has no option NOT to make ??
+- tax neutrality, distortion
+		- "tax neutrality"
+				- tax code treats ALL incomes alike, regardless of how it is earned or spent
+		- "distortion"
+				- departure from the allocation resources from which each agent maximizes his own welfare
+				- fex: proportional income tax discourages working -> distrots;
+				- fex: lump sum income tax does NOT distort
+- basis
+		- "basis"
+				- purchase price
+				- original cost of property
+				- the part of a [property's value] that's SAVINGS, not income
+				- suppose I earn $120
+				- I pay $20 in tax, and now have $100
+				- I buy a property for $100
+				- I see the property for $150
+				- what's my income?
+				- it's not $150, because I already had $100
+				- I profitted $50, not $150
+				- so, my income from this sale is $50
+		- "adjusted tax basis"
+				- tax basis + depreciation
+				- "savings that remain from income that has already been taxed"
+- tax treatment of loans
+		- suppose I borrow $100
+		- is this "income"?
+		- it DOES increase my wealth - so, it's an "accession to wealth"
+		- so, yes it IS income
+		- BUT!
+		- the idea of borrowing: I get $100 now, I pay back $100 (at least) later
+		- "pay back $100 later" is DECREASE in "store of property rights"
+		- the [increase in wealth] and [decrease in wealth] cancel each other out
+		- "principal"
+				- $100
+		- repayment of principal is NOT "deductible"
+				- ?? I need to understand this better. what is "deductible", conceptually?
+		- "interest"
+				- $10
+		- cost of borrowing, interest, is sometimes deductible
