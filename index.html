@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Kratzke</title>
+<!-- 2019-02-03 Sun 16:39 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="nugnoy" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Kratzke</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. TOC</a></li>
+<li><a href="#sec-2">2. 1</a>
+<ul>
+<li><a href="#sec-2-1">2.1. I. basic concepts</a></li>
+<li><a href="#sec-2-2">2.2. II. taxing income</a></li>
+<li><a href="#sec-2-3">2.3. III. Some definitions</a></li>
+<li><a href="#sec-2-4">2.4. IV. Layout of the code</a>
+<ul>
+<li><a href="#sec-2-4-1">2.4.1. structure</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-5">2.5. V. Not all income is taxed alike</a></li>
+<li><a href="#sec-2-6">2.6. VI. Illustration of the tax formula</a>
+<ul>
+<li><a href="#sec-2-6-1">2.6.1. scenario</a></li>
+<li><a href="#sec-2-6-2">2.6.2. analysis</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-7">2.7. VII. Sources of tax law and role of courts</a></li>
+<li><a href="#sec-2-8">2.8. VIII. Some income tax policy and some income tax principles</a></li>
+<li><a href="#sec-2-9">2.9. IX. What we tax: what is income?</a>
+<ul>
+<li><a href="#sec-2-9-1">2.9.1. Some obvious or not-so-obvious implications of the SHS definition of "income"</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> TOC</h2>
+<div class="outline-text-2" id="text-1">
+<ul class="org-ul">
+<li>Chapter 1: The Government Raises Money: Introduction to Some Basic Concepts of Taxes and Taxing Income
+<ul class="org-ul">
+<li>I. Introduction to Some Basic Concepts
+</li>
+<li>II. Taxing Income
+</li>
+<li>III. Some Definitions
+</li>
+<li>IV. Layout of the Code
+</li>
+<li>V. Not All Income Is Taxed Alike
+</li>
+<li>VI. Illustration of the Tax Formula:
+</li>
+<li>VII. Sources of Tax Law and the Role of Courts
+</li>
+<li>VIII. Some Income Tax Policy and Some Income Tax Principles
+</li>
+<li>IX. What We Tax: What Is Income?
+</li>
+<li>Wrap-up Questions for Chapter 1
+</li>
+<li>What have you learned?
+</li>
+</ul>
+</li>
+<li>Chapter 2: What Is Gross Income: Section 61 and the Sixteenth Amendment
+<ul class="org-ul">
+<li>I. The Constitutional and Statutory Definitions of “Gross Income”
+</li>
+<li>II. The Constitutional and Statutory Definitions of “Gross Income:” Accessions to Wealth
+</li>
+<li>III. The Constitutional and Statutory Definitions of “Gross Income:” Realization
+</li>
+<li>IV. The Constitutional and Statutory Definitions of “Gross Income:” Dominion and Control
+</li>
+<li>Wrap-up Questions for Chapter 2:
+</li>
+<li>What have you learned?
+</li>
+</ul>
+</li>
+<li>Chapter 3: Exclusions from Gross Income
+<ul class="org-ul">
+<li>I. The Society and Government that We Want
+</li>
+<li>II. Social Benefits
+</li>
+<li>III. Employment-Based Exclusions from Gross Income
+</li>
+<li>Wrap-up Questions for Chapter 3:
+</li>
+<li>What have you learned?
+</li>
+</ul>
+</li>
+<li>Chapter 4: Loans and Cancellation of Indebtedness
+<ul class="org-ul">
+<li>I. Tax Consequences of Borrowing Money
+</li>
+<li>II. Cancellation of Indebtedness
+</li>
+<li>III. Is It a Loan? Is There an Accession to Wealth?
+</li>
+<li>IV. Section 108(a)'s Other Provisions
+</li>
+<li>V. Transactions Involving Property Subject to a Loan
+</li>
+<li>VI. Transactions Treated as Loans
+</li>
+<li>Wrap-up Questions for Chapter 4
+</li>
+<li>What have you learned?
+</li>
+</ul>
+</li>
+<li>Chapter 5: Progressivity and Assignment of Income
+<ul class="org-ul">
+<li>I. Compensation for Services
+</li>
+<li>II. Income Splitting and the Joint Return
+</li>
+<li>III. Income Derived from Property
+</li>
+<li>IV. Interest Free Loans and Unstated Interest
+</li>
+<li>Wrap-Up Questions for Chapter 5
+</li>
+<li>What have you learned?
+</li>
+</ul>
+</li>
+<li>Chapter 6: Deductions: Business Expenses
+<ul class="org-ul">
+<li>I. Expense or Capital
+</li>
+<li>II. Deductibility Under §§ 162 or 212
+</li>
+<li>III. Depreciation, Amortization, and Cost Recovery
+</li>
+<li>Wrap-Up Questions for Chapter 6
+</li>
+<li>What have you learned?
+</li>
+</ul>
+</li>
+<li>Chapter 7: Personal Deductions and the Standard Deduction
+<ul class="org-ul">
+<li>I. “Tax Expenditures”
+</li>
+<li>II. Denial of Discretion in Choosing How or What to Consume
+</li>
+<li>III. Creating a More Efficient and Productive Economy
+</li>
+<li>IV. Deferral Until Consumption
+</li>
+<li>Wrap-Up Questions for Chapter 7
+</li>
+<li>What have you learned?
+</li>
+</ul>
+</li>
+<li>Chapter 8: Tax Consequences of Divorce and Intra-Family Transactions
+<ul class="org-ul">
+<li>I. Introduction
+</li>
+<li>II. Before Marriage
+</li>
+<li>III. During Marriage
+</li>
+<li>IV. After Marriage: Tax Consequences of Divorce
+</li>
+<li>Wrap-Up Questions for Chapter 8
+</li>
+<li>What have you learned?
+</li>
+</ul>
+</li>
+<li>Chapter 9: Timing of Income and Deductions: Annual Accounting and Accounting Principles
+<ul class="org-ul">
+<li>I. Annual Accounting
+</li>
+<li>II. Deferral Mechanisms
+</li>
+<li>III. Basic Accounting Rules
+</li>
+<li>Wrap-Up Questions for Chapter 9:
+</li>
+<li>What have you learned?
+</li>
+</ul>
+</li>
+<li>Chapter 10: Character of Income and Computation of Tax
+<ul class="org-ul">
+<li>I. Capital Gain
+</li>
+<li>II. Sections 1245 and 1250: Depreciation Recapture
+</li>
+<li>III. Section 1231: Some Limited Mismatching
+</li>
+<li>IV. More Matching
+</li>
+<li>Wrap-Up Questions for Chapter 10
+</li>
+<li>What have you learned?
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> 1</h2>
+<div class="outline-text-2" id="text-2">
+</div><div id="outline-container-sec-2-1" class="outline-3">
+<h3 id="sec-2-1"><span class="section-number-3">2.1</span> I. basic concepts</h3>
+<div class="outline-text-3" id="text-2-1">
+<ul class="org-ul">
+<li>tax as "source of revenue" for government
+</li>
+<li>tariffs
+</li>
+<li>import tariffs
+</li>
+<li>export tariffs
+</li>
+<li>consumers v. producers
+</li>
+<li>domestic v. foreign
+</li>
+<li>Article 1, § 9, cl. 5
+<ul class="org-ul">
+<li>no inter-state tariffs
+</li>
+</ul>
+</li>
+<li></li>
+<li>government monopoly
+</li>
+<li>government enters an industry, then outlaws competition in that industry
+</li>
+<li>lotteries, park access, liquor stores
+</li>
+<li></li>
+<li>tax citizens
+</li>
+<li>citizens v. consumers
+</li>
+<li>noncitizens, nonresidents
+</li>
+<li>"tax base"
+<ul class="org-ul">
+<li>what it is the government should tax
+</li>
+</ul>
+</li>
+<li>"head tax"
+<ul class="org-ul">
+<li>tax on a specific group - citizen, resident, voter, etc.
+</li>
+<li>objectively equal ($1000 all citizens), but subjectively unequal ($1000 is nothing to some citizens, is a LOT to other citizens)
+</li>
+<li>poll tax, 24th Amendment
+</li>
+</ul>
+</li>
+<li>consumption tax
+<ul class="org-ul">
+<li>tax "consumption"
+</li>
+<li>sales tax
+</li>
+<li>excise tax
+</li>
+<li>value added tax (VAT)
+</li>
+<li>sales tax
+<ul class="org-ul">
+<li>tax on sale
+</li>
+<li>usually a flat %
+</li>
+<li>NOT on "what people "SAVE""
+</li>
+<li>more burdensome to those who spend more on [items subject to a sales tax]
+</li>
+<li>objectively equal (same % for everyone)
+</li>
+<li>"regressive effect": 2 people; one richer; spend same objective amount; the poorer is taxed on more % of his income; the richer is taxed on less % of his income
+</li>
+<li>Ramsey principle
+<ul class="org-ul">
+<li>taxes on items whose demand is "inelastic" raises the most revenue
+</li>
+<li>"inelastic demand": amount of tax does NOT change the demand
+</li>
+<li>lifesaving drug - doesn't matter how expensive; people MUST buy
+</li>
+<li>"distort": the mere [presence of tax] changes people's spending behavior
+</li>
+<li>taxes on inelastic goods distorts LITTLE
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>excise tax
+<ul class="org-ul">
+<li>sales tax only on certain class of goods
+</li>
+<li>basically, head tax but based on [identity/grouping of the item bought] (not based on [identity/grouping of the purchaser])
+</li>
+<li>tax on luxury items
+</li>
+<li>luxury goods have highly elastic demand
+</li>
+<li>excise tax on "sin" purchases like cigarettes and alcohol
+</li>
+</ul>
+</li>
+<li>value added tax
+<ul class="org-ul">
+<li>tax on all stages of a sale
+</li>
+<li>not just on consumer, but every stage of production
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li></li>
+<li>progressive consumption tax
+</li>
+<li>Schanz-Haig-Simons concept of income
+</li>
+<li>"wealth"
+</li>
+<li>"consumption"
+</li>
+<li>"saving"
+</li>
+<li>"progressive": more consumption -&gt; more tax
+</li>
+<li></li>
+<li>wealth tax
+</li>
+<li>estate tax
+<ul class="org-ul">
+<li>tax on estates of decedents
+</li>
+</ul>
+</li>
+<li>property tax
+<ul class="org-ul">
+<li>tax on people who HOLD property
+</li>
+</ul>
+</li>
+<li></li>
+<li>wage tax
+</li>
+<li>"payroll tax"
+<ul class="org-ul">
+<li>flat % tax on all wages, no matter the actual amount
+</li>
+</ul>
+</li>
+<li><ul class="org-ul">
+<li>social security tax, medicare tax
+</li>
+</ul>
+</li>
+<li>regressive effect
+<ul class="org-ul">
+<li>income above "ceiling", effective rate, lower than effective rate of income below ceiling
+</li>
+</ul>
+</li>
+<li></li>
+<li>Income tax
+</li>
+<li>"income" as "tax base"
+</li>
+<li>"deductions"
+<ul class="org-ul">
+<li>adjustments, reductions
+</li>
+</ul>
+</li>
+<li>hard to avoid: have to NOT make money
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-2-2" class="outline-3">
+<h3 id="sec-2-2"><span class="section-number-3">2.2</span> II. taxing income</h3>
+<div class="outline-text-3" id="text-2-2">
+<ul class="org-ul">
+<li>"personal income tax"
+</li>
+<li>"corporate income tax", "estate tax", "gift tax"
+</li>
+<li>title 26 of USC is the IRC
+<ul class="org-ul">
+<li></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-2-3" class="outline-3">
+<h3 id="sec-2-3"><span class="section-number-3">2.3</span> III. Some definitions</h3>
+<div class="outline-text-3" id="text-2-3">
+<ul class="org-ul">
+<li>"tax base"
+<ul class="org-ul">
+<li>the thing that the government is taxing
+</li>
+</ul>
+</li>
+<li>"all income"
+</li>
+<li>"taxable income"
+<ul class="org-ul">
+<li>"gross income" minus [§62 deductions], minus (either "standard deduction" or "itemized deductions")
+</li>
+</ul>
+</li>
+<li>"tax formula"
+<ul class="org-ul">
+<li><img src="tax formula.png" alt="tax formula.png" />
+</li>
+<li>line in the tax formula: "the line"
+<ul class="org-ul">
+<li>"above the line", "below the line"
+</li>
+<li>gross income to adjusted gross income
+</li>
+</ul>
+</li>
+<li>"below the line"
+<ul class="org-ul">
+<li>for you to deduct a "medical expense", you must've spent at least 10% of your AGI (below the line)
+</li>
+</ul>
+</li>
+<li>"credit"
+</li>
+<li>non-refundable credits
+<ul class="org-ul">
+<li>cannot reduce tax liability below 0
+</li>
+</ul>
+</li>
+<li>refundable credits
+<ul class="org-ul">
+<li>CAN reduce tax liability below 0 -&gt; govt pays you! lol
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li></li>
+<li>"progressive"
+</li>
+<li>"declining marginal utility of money"
+</li>
+<li>$1 is nothing to millionaire, a lot to a poor person
+</li>
+<li>"equal sacrifice"
+</li>
+<li>"redistribute income"
+</li>
+<li>tax brackets
+</li>
+<li>married, joint
+<ul class="org-ul">
+<li><img src="married, joint old.png" alt="married, joint old.png" />
+</li>
+<li><img src="married, join new.png" alt="married, join new.png" />
+</li>
+</ul>
+</li>
+<li>unmarried
+<ul class="org-ul">
+<li><img src="unmarried old.png" alt="unmarried old.png" />
+</li>
+<li><img src="unmarried new.png" alt="unmarried new.png" />
+</li>
+</ul>
+</li>
+<li>"progressive tax brackets"
+<ul class="org-ul">
+<li>higher taxable income, higher tax rates
+</li>
+</ul>
+</li>
+<li>"regressive tax"
+<ul class="org-ul">
+<li>higher taxable income, less tax rate
+</li>
+</ul>
+</li>
+<li>"flat tax"
+<ul class="org-ul">
+<li>one same tax rate, ALL income levels
+</li>
+</ul>
+</li>
+<li>"effective tax rate"
+<ul class="org-ul">
+<li>[amount ultimately paid as tax]/[total income]
+</li>
+<li>"net capital gain" v. "ordinary income"
+</li>
+</ul>
+</li>
+<li>"marginal tax rate"
+<ul class="org-ul">
+<li>the rate at which the next/last dollar is taxed
+</li>
+<li>determines cost/value of working more, get benefit rather than salary, etc.
+</li>
+</ul>
+</li>
+<li>"tax incidence"
+<ul class="org-ul">
+<li>who ACTUALLY bears the burden of a tax?
+</li>
+<li>"direct tax": burden CAN'T be transferred - head tax
+</li>
+<li>"indirect tax": burden CAN be transferred - excise tax
+<ul class="org-ul">
+<li>landowner charges rent 1. govt imposes real property tax. landowner charges higher rent 2. Ultimately, tenants are paying the real propert ytax
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>"upside down nature of deductions and exclusions"
+<ul class="org-ul">
+<li>the value of another dollar earned: $1 - $1*(marginal tax rate)
+</li>
+<li>the value of next dollar deducted: $1 is received by charity, donor only gives up $1 - $1*(marginal tax rate)
+</li>
+<li>1% marginal tax rate: donor gives up 99 cents to give $1 value to charity
+</li>
+<li>99% marginal tax rate: donor gives up 1 cent to give $1 value to charity
+</li>
+<li>"upside-downness" of incentives
+</li>
+<li>I THINK it just means:
+</li>
+<li>tax-writers intended "the more you earn, the more you pay"
+</li>
+<li>but, another way to look at it is:
+</li>
+<li>"the more you earn, [the more you deduct, the more you benefit]"
+</li>
+<li>so, richer people go apeshit for deductions
+</li>
+<li>ultimately, people "earn less", meaning tax revenue is lower
+</li>
+<li>kind of perverse &#x2026;?
+</li>
+<li>fuck taxers
+</li>
+</ul>
+</li>
+<li></li>
+<li>exclusions from gross income
+</li>
+<li>"gross income"
+</li>
+<li>"accessions to wealth"
+</li>
+<li>things that are "accessions to wealth" but NOT "gross income"
+<ul class="org-ul">
+<li>employer-provided health insurance §106
+</li>
+<li>life insurance proceeds §101
+</li>
+<li>interest from state or local bonds §103
+</li>
+<li>various employee fringe benefits §§132, 129, 119
+</li>
+</ul>
+</li>
+<li>encourages people to take these things, since these are not taxed
+</li>
+<li></li>
+<li>"deductions" from "taxable income"
+</li>
+<li>"deduction"
+<ul class="org-ul">
+<li>if you do X with your money,
+</li>
+<li>we'll let you pay less taxes by "lowering" your taxable income
+</li>
+<li>reduces income that's otherwise subject to income tax
+</li>
+</ul>
+</li>
+<li>"exclusion from gross income" v. "deduction from taxable income/adjusted gross income"
+</li>
+<li></li>
+<li>Alternative minimum tax
+</li>
+<li>"AMT"
+</li>
+<li>you must pay the higher of (1) regular tax and (2) AMT
+</li>
+<li>you have to pay AT LEAST this amount!
+</li>
+<li></li>
+<li>credits against tax liability
+</li>
+<li>"credit"
+</li>
+<li>credits are for things like:
+<ul class="org-ul">
+<li>certain group of people (low income)
+</li>
+<li>behavior: spend money on childcare
+</li>
+<li>both
+</li>
+</ul>
+</li>
+<li></li>
+<li>"right side up" nature of tax credits
+</li>
+<li>something about: using credits (rather than deductions), benefit poor people more than rich people
+</li>
+<li></li>
+<li>Income phaseouts and deduction caps
+</li>
+<li>goal: tax poor people less, without taxing rich people less
+</li>
+<li>"phaseout"
+</li>
+<li>"cap"
+</li>
+<li>deduction for interest paid on qualified education loans §219
+<ul class="org-ul">
+<li>cap: $2500
+</li>
+<li>phaseout:
+<ul class="org-ul">
+<li>you make less than 20k -&gt; can deduct full 2500
+</li>
+<li>you make 20k-40k -&gt; can deduct 2000
+</li>
+<li>you make 40k-60k -&gt; can deduct 1500
+</li>
+<li>you make 60k-80k -&gt; can deduct 1000
+</li>
+<li>you make 80k-120k -&gt; can deduct 500
+</li>
+<li>you make 120k+ -&gt; can deduct 0 (can't deduct at all)
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>what kind of taxpayer would benefit most from §219? what kind of taxpayer would benefit the least?
+</li>
+<li>phaseouts and caps exist for both credits and deductions
+</li>
+<li></li>
+<li>A word about "employment taxes"
+</li>
+<li>"employment taxes"
+<ul class="org-ul">
+<li>tax that everyone pays on wages they get from employers
+</li>
+<li>social security tax, medicare tax
+</li>
+</ul>
+</li>
+<li>self employed, "self-employment taxes"
+</li>
+<li>eligibility is NOT based on wealth or need
+</li>
+<li>EVERYONE is to benefit from these programs
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-2-4" class="outline-3">
+<h3 id="sec-2-4"><span class="section-number-3">2.4</span> IV. Layout of the code</h3>
+<div class="outline-text-3" id="text-2-4">
+<ul class="org-ul">
+<li>Internal Revenue Code
+</li>
+<li>title 26 of USC
+</li>
+<li>(1) statutes
+</li>
+<li>(2) regulations by Department of the Treasury
+</li>
+<li>"§61" really means "26 USC §61"
+</li>
+<li>regulation shorthand
+<ul class="org-ul">
+<li>"1"
+</li>
+<li>related code section
+</li>
+</ul>
+</li>
+<li>Reg. § 61-8
+<ul class="org-ul">
+<li>a regulation
+</li>
+<li>related to §61
+</li>
+<li>the one was that declared 8th
+</li>
+<li>rephrase: the 8th regulation on §61
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div id="outline-container-sec-2-4-1" class="outline-4">
+<h4 id="sec-2-4-1"><span class="section-number-4">2.4.1</span> structure</h4>
+<div class="outline-text-4" id="text-2-4-1">
+<p>
+§§ 1 and 11 establish rates;
+§§ 21-54AA provide credits against tax liability;
+§§ 55-59 establish the alternative minimum tax;
+§§ 61-65 provide some key definitions concerning “gross income,” “adjusted gross income,” and “taxable income;”
+§§ 67-68 provide rules limiting deductions;
+§§ 72-91 require inclusion of specific items (or portions of them) in gross income;
+§§ 101-139G state rules concerning exclusions from gross income;
+§§ 141-149 establish rules governing state and local bonds whose interest is exempt from gross income;
+§ 152 establishes entitlement to a credit for dependents;
+§§ 161-199A establish rules governing deductions available both to individuals and corporations;
+§§ 211-223 establish rules governing deductions available only to individuals;
+§§ 241-250 establish rules governing deductions available only to corporations;
+§§ 261-280H deny or limit deductions that might otherwise be available;
+§§ 441-483 provide various rules of accounting, including timing of recognition of income and deductions;
+§§ 1001-1021 provide rules governing the recognition of gain or loss on the disposition of property;
+§§ 1031-1045 provide rules governing non-recognition of gain or loss upon the disposition of property, accompanied by a transfer and adjustment to basis;
+§§ 1201-1260 provide rules for defining and calculating capital gains/losses;
+§§ 1271-1288 provide rules for original issue discount.
+</p>
+
+<div class="figure">
+<p><img src="structure.png" alt="structure.png" />
+</p>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2-5" class="outline-3">
+<h3 id="sec-2-5"><span class="section-number-3">2.5</span> V. Not all income is taxed alike</h3>
+<div class="outline-text-3" id="text-2-5">
+<ul class="org-ul">
+<li>"accession to wealth"
+</li>
+<li>"gross income"
+</li>
+<li>different types of "accession to wealth" are taxed differently
+<ul class="org-ul">
+<li>"long term capital gains"
+<ul class="org-ul">
+<li>gain on sale of property that a taxpayer owned for more than 1 year
+</li>
+</ul>
+</li>
+<li>dividend income
+</li>
+<li>wage/salary income
+</li>
+<li>interest income from state/local bonds
+</li>
+<li>ordinary income
+</li>
+</ul>
+</li>
+<li>"character" of income
+<ul class="org-ul">
+<li>ordinary income v. long-term capital gain income
+</li>
+</ul>
+</li>
+<li></li>
+<li>3 levels of tax law (analysis)
+<ul class="org-ul">
+<li>(1) statute and regulations
+</li>
+<li>(2) policies of IRC
+</li>
+<li>(3) income tax in one specific society (US, GB, Sweden, etc.)
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-2-6" class="outline-3">
+<h3 id="sec-2-6"><span class="section-number-3">2.6</span> VI. Illustration of the tax formula</h3>
+<div class="outline-text-3" id="text-2-6">
+</div><div id="outline-container-sec-2-6-1" class="outline-4">
+<h4 id="sec-2-6-1"><span class="section-number-4">2.6.1</span> scenario</h4>
+<div class="outline-text-4" id="text-2-6-1">
+<ul class="org-ul">
+<li>Bill and Mary are husband and wife.
+</li>
+<li>They have two children, Thomas who is 14 and Stephen who is 10.
+</li>
+<li>Bill works as a manager for a large retailer.
+</li>
+<li>Last year, he earned a salary of $80,000.
+</li>
+<li>His employer provided the family with health insurance that cost $14,000.
+</li>
+<li>Mary is a school administrator who earned a salary of $75,000.
+</li>
+<li>Her employer provided her a group term life insurance policy with a death benefit of $50,000; her employer paid $250 to provide her this benefit.
+</li>
+<li>Their respective employers deducted employment taxes from every paycheck and paid each of them the balance.
+</li>
+<li>In addition to the above items, Bill and Mary own stock in a large American corporation, and that corporation paid them a dividend of $500.
+</li>
+<li>Bill and Mary later sold that stock for $10,000; they had paid $8000 for it several years ago.
+</li>
+<li>Bill and Mary have a joint bank account that paid interest of $400.
+</li>
+<li>Bill and Mary paid $4300 for daycare for Stephen.
+</li>
+<li>They also paid $3000 of interest on a student loan that Bill took out when he was in college.
+</li>
+<li>What is Bill and Mary’s tax liability? Assume that they will file as married filing jointly.
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-2-6-2" class="outline-4">
+<h4 id="sec-2-6-2"><span class="section-number-4">2.6.2</span> analysis</h4>
+<div class="outline-text-4" id="text-2-6-2">
+
+<div class="figure">
+<p><img src="tax_analysis_steps.png" alt="tax_analysis_steps.png" />
+</p>
+</div>
+
+<ol class="org-ol">
+<li>"employment taxes"
+</li>
+<li>"gross income"
+</li>
+<li>"adjusted gross income"
+</li>
+<li>"taxable income"
+</li>
+<li>"income tax liability"
+</li>
+<li>"credits"
+</li>
+<li>"effective tax rate"
+</li>
+<li>"marginal tax bracket"
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-2-7" class="outline-3">
+<h3 id="sec-2-7"><span class="section-number-3">2.7</span> VII. Sources of tax law and role of courts</h3>
+<div class="outline-text-3" id="text-2-7">
+<ul class="org-ul">
+<li>sources, in order of hierarchy:
+<ul class="org-ul">
+<li>(1) Constitution
+</li>
+<li>(2) IRC (statutes), courts, IRC can disagree with non-SCOTUS
+</li>
+<li>(3) regulations of Secretary of Treasur
+</li>
+<li>(4) revenue ruling by IRS
+<ul class="org-ul">
+<li>"revenue rulings"
+</li>
+<li>"revenue procedure"
+</li>
+<li>"private letter ruling"
+</li>
+</ul>
+</li>
+<li>(5) IRS's other statements
+<ul class="org-ul">
+<li>"technical advice memoranda"
+</li>
+<li>"notices"
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>binding or not?
+</li>
+<li>binding on all? or binding on only that one party discussed?
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-2-8" class="outline-3">
+<h3 id="sec-2-8"><span class="section-number-3">2.8</span> VIII. Some income tax policy and some income tax principles</h3>
+<div class="outline-text-3" id="text-2-8">
+<ul class="org-ul">
+<li>fairness and equity
+<ul class="org-ul">
+<li>"horizontal equity"
+<ul class="org-ul">
+<li>equal accessions to wealth, same income tax
+</li>
+</ul>
+</li>
+<li>"vertical equity"
+<ul class="org-ul">
+<li>different accessions to wealth, different income tax
+</li>
+</ul>
+</li>
+<li>"administrative feasibility"
+</li>
+</ul>
+</li>
+<li>enforcement of the tax laws and court review
+<ul class="org-ul">
+<li>IRS is part of Department of the Treasury
+</li>
+<li>IRS enforces federal tax code
+</li>
+<li>IRS has its own pprocess
+</li>
+<li>but when it's time to take things out of IRS and to a court, 3 options:
+</li>
+<li>(1) tax court
+</li>
+<li>(2) court of claims (claims against US)
+</li>
+<li>(3) Federal district court
+</li>
+</ul>
+</li>
+<li>"tax expenditures"
+<ul class="org-ul">
+<li>if you're doing something we like, you don't have to pay tax on related income or spending
+</li>
+<li>fex: qualified adoption expenses income § 137; qualified adoption spending § 36C
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-2-9" class="outline-3">
+<h3 id="sec-2-9"><span class="section-number-3">2.9</span> IX. What we tax: what is income?</h3>
+<div class="outline-text-3" id="text-2-9">
+<ul class="org-ul">
+<li>"income": money I get (work at a job, invest money)?
+</li>
+<li>what about lottery income?
+</li>
+<li>A and B have same wage. B wins $1m in a lottery
+</li>
+<li>should they have the "same income"?
+</li>
+<li>point of defining "income": treat like taxpayers alike
+</li>
+<li>are A and B alike?
+</li>
+<li>No
+<ul class="org-ul">
+<li>B has much greater "capacity to consume or save"
+</li>
+</ul>
+</li>
+<li>so, we want to treat A and B differently
+</li>
+<li>so, "income" can NOT just involve (1) fruits of labor and (2) investment
+</li>
+<li>"income" should relate to: (1) spending and (2) saving
+</li>
+<li>"personal income"
+<ul class="org-ul">
+<li>(1) actual "consumption" (how much spent)
+</li>
+<li>(2) addition to "store of property rights" (how much saved)
+</li>
+<li>this is the Schanz-Haig-Simons formula
+</li>
+</ul>
+</li>
+<li>Income = Consumption + addition to the store of property rights
+</li>
+<li>consumption = Income - addition to the store of property rights
+</li>
+<li>employer gives W-2 (fruits of labor)
+</li>
+<li>bank gives 1099-INT (interest income (one form of investment))
+</li>
+<li>mp: "income", "consumption", and "addition to property rights" are RELATIVE TERMS
+</li>
+<li></li>
+</ul>
+</div>
+<div id="outline-container-sec-2-9-1" class="outline-4">
+<h4 id="sec-2-9-1"><span class="section-number-4">2.9.1</span> Some obvious or not-so-obvious implications of the SHS definition of "income"</h4>
+<div class="outline-text-4" id="text-2-9-1">
+<ul class="org-ul">
+<li>"fruits of labor FOR THIS YEAR" and "ADDITION to property rights THIS YEAR"
+</li>
+<li>taxed in INCREMENT, not CUMULATION/NET WORTH/AGGREGATE
+</li>
+<li>"basis"
+<ul class="org-ul">
+<li>purpose: make sure that "increment to wealth" is taxed, NOT "accumulated wealth"
+</li>
+</ul>
+</li>
+<li></li>
+</ul>
+</div>
+<ol class="org-ol"><li><a id="sec-2-9-1-1" name="sec-2-9-1-1"></a>taxing income is taxing consumption plus increments to the POWER to consume<br  /><div class="outline-text-5" id="text-2-9-1-1">
+<ul class="org-ul">
+<li>"wealth": unexercised power to consume
+</li>
+<li>"putting more money in bank account": consuming in the future rather than now
+</li>
+<li>inflation -&gt; $1, consuming power today &gt; consuming power in future -&gt; people don't save
+</li>
+</ul>
+</div>
+</li>
+<li><a id="sec-2-9-1-2" name="sec-2-9-1-2"></a>income, consumption, and value<br  /><div class="outline-text-5" id="text-2-9-1-2">
+<ul class="org-ul">
+<li>"value": buyer and seller agree on a price
+</li>
+<li>voluntary exchange
+</li>
+<li>"creation of value", "loss of value", court judgment, § 104(a)
+</li>
+<li>"buyer surplus"
+</li>
+<li>"seller surplus"
+</li>
+<li>"cooperative surplus"
+</li>
+</ul>
+</div>
+</li></ol>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: nugnoy</p>
+<p class="date">Created: 2019-02-03 Sun 16:39</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.2.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
