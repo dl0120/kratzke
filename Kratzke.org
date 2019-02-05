@@ -834,3 +834,169 @@
 		- "interest"
 				- $10
 		- cost of borrowing, interest, is sometimes deductible
+* Chapter 2: What Is Gross Income: Section 61 and the Sixteenth Amendment
+- aside: "tax formula"
+		- "accessions to wealth"
+		- "gross income"
+		- "adjusted gross income"
+		- "taxable income"
+#+BEGIN_SRC plantuml :file tax_formula.png
+  @startuml
+
+  :accessions to wealth;
+  :gross income;
+  -> § 62 deductions;
+  :adjusted gross income;
+  -> (1) standard deduction or (2) itemized deductions;
+  :taxable income;
+  -> § 1 bracket table;
+  :tax liability;
+  -> credits;
+  :tax liability;
+
+  @enduml
+#+END_SRC
+
+#+RESULTS:
+[[file:tax_formula.png]]
+
+- "gross income"
+- definition
+- what constitutes "gross income"
+- timing
+- valuation
+** I. The constitutional statutory definitions of "gross income"
+*** what gives Congress power to tax income?
+- Article I
+- Article I, § 2, clause 3: federal taxes
+		- "representative", "direct taxes", "apportioned", "respective Numbers", "free Persons", "bound to Service", "3/5 of all other Persons", "enumeration"
+- Article I, § 7, clause 1: House of Representatives, bills
+- Article I, § 8, clause 1: Congress, "lay and collect", "taxes, duties, imposts, excises", inter-state
+- Article I, § 9, clause 4: "capitation", "direct tax"
+- "direct taxes"
+		- income tax is a "direct tax". 158 US 601
+- "indirect taxes"
+		- "consumption taxes" are "indirect taxes"
+- "in proportion of respective populations"
+- 
+- 16th amendment: Congress can tax income
+		- "incomes, from whatever source derived"
+		- don't need "apportionment", "census", or "enumeration"
+- 
+- 26 US § 61, "gross income" defined
+*** what is "income"?
+- 3 cases
+- "gross income"
+- "capitalization"
+- "surplus"
+- "demurrer", "code pleading", "motion to dismiss for failure to state a claim"
+*** Eisner v. Macomber, 252 US 189 (1920)
+**** concepts
+- "profits"
+- "retain profits"
+- "distribute profits"
+- "distribute profits"v. "use profits to acquire more productive "capital assets""
+- "capital stock account"
+- "surplus account"
+- "capital"
+- "income"
+- "gain derived from capital, from labor, or from both combined"
+- "gain"
+- "capital interest"
+- "aggregate par value of stock"
+- "capital stock account"
+- "profit and loss"
+- "undivided profits"
+- "surplus account"
+- "going concern"
+- "capital stock"
+- "property capable of division"
+- "stock dividend"
+- "surplus"
+		- 
+- "stock dividend"
+- "distribution in money"
+- "distribution in kind"
+- "dividend stock"
+- "apportionment"
+- "distribution of capital assets"
+- "distribution of profits"
+- "scrip"
+- "stock"
+- "preferred stock"
+- "stock in the treasury"
+- "stock created for distribution"
+***** general
+- "shareholders"
+		- owners of a corporation
+		- give money/property to the corporation
+		- get "shares"
+- "shares"
+		- represent ownership of the corporation's "productive capital"
+***** bond, stock
+- "par value"
+		- original issuing price
+		- "nominal value", "face value"
+- "par value of bond"
+		- the amount of money that the "bond issuer" promises to repay to "bondholder" at the "maturity date" of the bond
+		- the original price at which the bond was issued/sold
+		- par value is used for "maturity value" and "interest payments"
+		- "coupon payments"
+		- "market price"
+		- "above par", "below par"
+- "par value of stock"
+		- the stock value stated in the corporate charter
+		- usually is 0 or very low - 1 cent per share
+		- not related to market price
+- par value of stock is very low
+		- because some states say: you can't sell stock below par value
+		- so, to be safe, companies put the par value very low: $0.00001, $0.01
+		- shares cannot be sold below this value on IPO
+		- prevent "favorable price treatment"
+- "bond"
+		- a written promise that the amount loaned to the issuer will be repaid
+- "maturity date"
+		- the date on which the "principal amount" of a "debt instrument" is due
+- "debt instrument"
+		- a fancy word for borrowing of money
+		- a legally enforceable evidence of a financial debt and promise of timely repayment of principal, plus any interest
+		- "notes", "bonds", "debentures", "certifcates", "mortgages", "leases", or other agreements
+		- (1) legal enforceability (2) transferability, liquidity, tradability, marketability
+		- "debenture": a debt instrument, not secured by physical collateral; backed by creditworthiness and reputation ; 
+- "note"
+		- a legal document, that's an IOU from a borrower to a creditor
+		- a "debt security"
+		- Treasury notes, mortgage-backed notes, unsecured notes, promissory notes, demand notes, etc.
+		- "treasury note": issued by US govt
+		- "unsecured note": a corporate debt with no collateral
+		- "promissory note": written documentation of money loaned/owed; "pay to the order of"
+		- "convertible note": automatically converts to "equity" when equity structure kicks in
+- "bondholder"
+- "principal"
+		- original sum of money borrowed in a loan (or put into an investment)
+		- fex: face value of a bond, face value of a security, etc.
+- "interest"
+- "coupon rate"
+		- the interest payments that are made to bondholders
+		- annual or semi-annual
+		- compensation for loaning
+- bond can be issued at a "premium" or at "discount"
+		- "trading above par" = "at a premium"
+		- "trading below par" = "at a discount"
+***** dividend
+- "cash dividend"
+		- corporation gives money to shareholders
+		- depends on shares owned
+		- A owns 100 shares. cash dividend is 50 cents per share. A gets $50
+- "dividend"
+		- a corporation pays its shareholder
+		- usually to distribute profits
+- "stock dividend" or "scrip dividend"
+		- corporation gives stock to shareholders
+		- depends on shares owned
+		- fex: 5% stock dividend = 5 extra shares for every 100 shares of stock owned
+- "property dividends" or "dividends in kind"
+		- corporation gives asset to shareholders
+		- "asset": can be products, services
+- "interim dividend"
+		- dividend payments before the year's financial statements are published
